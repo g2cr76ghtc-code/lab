@@ -23,5 +23,9 @@
   "ribbonScaffolded": true,
   "gridControlScaffolded": true,
   "pluginsScaffolded": true,
-  "logicSolutionScaffolded": true
+  "logicSolutionScaffolded": true,
+  "devEnvUrl": "https://wm-dev-9536.crm.dynamics.com",
+  "devEnvId": "8c1ff88e-ad0e-e396-b1cc-a778f9920e1c",
+  "devOrgId": "004e1d06-bad0-f111-a04e-6045bd003128",
+  "devProfile": "dev"
 }
