@@ -6,5 +6,8 @@
   "publisherPrefix": "lab",
   "repo": "g2cr76ghtc-code/lab",
   "mainRulesetId": 25836254,
-  "mainRulesetName": "lab-main-protection"
+  "mainRulesetName": "lab-main-protection",
+  "packageDeployerScaffolded": true,
+  "dataModelScaffolded": true,
+  "columnsScaffolded": true
 }
